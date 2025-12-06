@@ -2,7 +2,7 @@
 
 ## Prereqs
 
-- go version >= go1.23
+- go version >= go1.24
 - git
 - make
 - gcc
